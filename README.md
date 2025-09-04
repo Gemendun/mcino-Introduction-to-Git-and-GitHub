@@ -1,2 +1,2 @@
-# mcino-Introduction-to-Git-and-GitHub
-Introduction-to-Git-and-GitHub
+# Simple Interest Calculator
+Ini adalah proyek kalkulator bunga sederhana untuk tugas praktik Git dan GitHub.
