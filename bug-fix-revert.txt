@@ -1,0 +1,4 @@
+$ curl -s https://api.github.com/repos/Gemendun/mcino-Introduction-to-Git-and-GitHub/pulls?state=closed | grep -E '"state":|"label":'
+    "state": "closed",
+      "label": "Gemendun:bug-fix-typo",
+      "label": "Gemendun:main",
