@@ -1,4 +1,0 @@
-$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1 | grep -E '"state":|"label":'
-    "state": "open",
-      "label": "hammcoding:bug-fix-typo",
-      "label": "ibm-developer-skills-network:main",
